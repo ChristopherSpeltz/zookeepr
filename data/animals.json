@@ -153,6 +153,27 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "James",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Jumbo",
+      "species": "Hippo",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "goofy"
+      ],
+      "id": "17"
     }
   ]
 }
